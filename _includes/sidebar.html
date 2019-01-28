@@ -23,9 +23,12 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}about">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}publication">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      <a class="sidebar-nav-item" href="mailto:bigfishinriver@gmail.com">Contact</a>
     </nav>
   </div>
 </div>
