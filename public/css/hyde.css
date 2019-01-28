@@ -54,6 +54,7 @@ html {
  */
 
 .sidebar {
+  position: fixed;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -77,11 +78,11 @@ html {
 
 /* About section */
 .sidebar-about h1 {
-  position: fixed;
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
+  text-align: justify;
 }
 
 /* Sidebar nav */
