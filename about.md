@@ -5,6 +5,7 @@ title:
 
 I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/).
 
+======
 ## News
 
 <!-- There are currently two themes built on Poole:
