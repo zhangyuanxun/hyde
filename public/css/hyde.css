@@ -167,6 +167,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+div.width {
+  width: 800px;
+}
 
 /* Social Icons */
 .social{
