@@ -8,7 +8,7 @@ title: Publications
   Zhang, Y., Calyam, P., Joshi, T., Nair, S., and Xu, D <br />
   IEEE Big Data, 2018 [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/papers/dstp-2018.pdf)
 
-* ** Dolus: Cyber Defense using Pretense against DDoS Attacks in Cloud Platforms** <br />
+* **Dolus: Cyber Defense using Pretense against DDoS Attacks in Cloud Platforms** <br />
   Neupane, R. L., Neely, T., Chettri, N., Vassell, M., Zhang, Y., Calyam, P., and Durairajan, R <br />
   ICDCN, ACM, 2018
 
