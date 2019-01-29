@@ -5,10 +5,12 @@ title:
 
 I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/).
 
+<br />
 ## News
 
+<br />
 ## Skills
-* **Programming Languages**: Python C/C++, Matlab, Java}, R, Javascript, HTML
+* **Programming Languages**: Python C/C++, Matlab, Java, R, Javascript, HTML
 * **Software Libraries**: Spark, TensorFlow, CUDA
 
 
