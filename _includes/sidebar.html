@@ -36,7 +36,7 @@
     <div class="social">
         <ul>
           {% for link in site.social %}
-            <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+            <a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a>
           {% endfor %}
         </ul>
     </div>
