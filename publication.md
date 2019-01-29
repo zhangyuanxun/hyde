@@ -19,7 +19,7 @@ title: Publications
 * **PGen: large-scale genomic variations analysis workflow and browser in SoyKB** <br />
   Liu, Y., Khan, S.M., Wang, J., Rynge, M., Zhang, Y., Zeng, S., Chen, S., dos Santos, J.V.M., Valliyodan, B., Calyam, P.P. and Merchant, N<br />
   BioMed Central, 2016
-* ****  
+ 
 * **PCA-based network-wide correlated anomaly event detection and diagnosis** <br />
   Zhang, Y., Calyam, P., Debroy, S., and Sridharan, M <br />
   DRCN, IEEE, 2015 [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/papers/drcn-2015.pdf)
