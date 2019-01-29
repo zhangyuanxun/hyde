@@ -16,7 +16,7 @@ I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, adv
 <br />
 ## Skills
 * **Programming Languages**: Python C/C++, Matlab, Java, R, Javascript, HTML
-* **Software Libraries**: Spark, TensorFlow, CUDA
+* **Software Libraries**: Numpy, Pandas, Spark, TensorFlow, CUDA
 
 
 <!-- There are currently two themes built on Poole:
