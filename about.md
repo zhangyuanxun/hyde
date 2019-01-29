@@ -5,12 +5,13 @@ title:
 
 I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/).
 
-<br />
 ## News
 * [Dec. 13, 2018] I presented [my paper](publication/#paper-dstp) at IEEE Big Data 2018 workshop in Seattle
 * [Nov. 13, 2018] A paper was accepted by IEEE Big Data 2018 workshop
 
-<br />
+## Research Interests
+
+
 ## Skills
 * **Programming Languages**: Python C/C++, Matlab, Java, R, Javascript, HTML
 * **Software Libraries**: Spark, TensorFlow, CUDA
