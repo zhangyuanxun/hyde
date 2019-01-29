@@ -7,6 +7,8 @@ I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, adv
 
 <br />
 ## News
+** [Dec. 13, 2018] I presented [my paper](#paper-dstp) at IEEE Big Data 2018 workshop, Seattle
+** [Nov. 13, 2018] My paper was accepted by IEEE Big Data 2018 workshop
 
 <br />
 ## Skills
