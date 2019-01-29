@@ -7,6 +7,12 @@ I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, adv
 
 ## News
 
+## Skills
+aa|bb|cc
+--|--|--
+ee|ff|gg
+
+
 <!-- There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
