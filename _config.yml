@@ -24,6 +24,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/zhangyuanxun/me
 
-social:
-    - icon: fa-github
-      link: "https://github.com/zhangyuanxun"
+# Social usernames/URLs
+linkedin_link: https://www.linkedin.com/in/yuanxun-zhang-79334b87/
