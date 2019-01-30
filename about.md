@@ -12,6 +12,7 @@ I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, adv
 
 <br />
 ## Research Interests
+My research interests include 
 
 <br />
 ## Skills
