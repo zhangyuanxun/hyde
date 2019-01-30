@@ -5,7 +5,7 @@ title:
 
 I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/).
 
-<br />
+<br style="line-height: 10px" />
 ## News
 * [Dec. 13, 2018] I presented [my paper](publication/#paper-dstp) at IEEE Big Data 2018 workshop in Seattle
 * [Nov. 13, 2018] [A paper](publication/#paper-dstp) was accepted by IEEE Big Data 2018 workshop
