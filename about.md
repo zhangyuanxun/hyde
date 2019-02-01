@@ -12,7 +12,7 @@ I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, adv
 
 <br />
 ## Research Interests
-I'm interested in understanding how we can reliably quantify uncertainty and robustness in modern, complex data analysis procedures
+I'm interested in understanding and modeling complex big data. 
 
 <br />
 ## Skills
