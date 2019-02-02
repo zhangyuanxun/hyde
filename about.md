@@ -25,7 +25,7 @@ I'm interested in understanding and modeling complex big data.
 ---
 
 ## Notes
-* My machine learning notes
+* My machine learning notes [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/notes/Machine_Learning_Notes.pdf)
 
 <!-- There are currently two themes built on Poole:
 
