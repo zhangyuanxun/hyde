@@ -22,6 +22,10 @@ I'm interested in understanding and modeling complex big data.
 * **Programming Languages**: Python C/C++, Matlab, Java, R, Javascript, HTML
 * **Software Libraries**: Numpy, Pandas, Spark, TensorFlow, CUDA
 
+---
+
+## Notes
+* My machine learning notes
 
 <!-- There are currently two themes built on Poole:
 
