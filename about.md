@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-I'm Ph.D candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/){:target="_blank"}. Before that, I worked in Huawei as software engineer. 
+I'm PhD candidate in Computer Science at University of Missouri - Columbia, advised by [Professor Calyam Prasad](http://faculty.missouri.edu/calyamp/){:target="_blank"}. Before that, I worked in Huawei as software engineer. 
 
 ---
 
