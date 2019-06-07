@@ -25,7 +25,8 @@ I'm interested in the theory and practice of understanding and modeling complex 
 ---
 
 ## Notes
-* My machine learning notes [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/notes/Machine_Learning_Notes.pdf)
+* Machine learning notes [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/notes/Machine_Learning_Notes.pdf)
+* Paper reading notes [[<span style="color:blue">pdf</span>]](https://github.com/zhangyuanxun/me/raw/gh-pages/docs/notes/Machine_Learning_Notes.pdf)
 
 <!-- There are currently two themes built on Poole:
 
