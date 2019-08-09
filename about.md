@@ -19,7 +19,7 @@ I'm interested in the theory and practice of understanding and modeling complex 
 ---
 
 ## Skills
-* **Programming Languages**: Python C/C++, Matlab, Java, R, Javascript, HTML
+* **Programming Languages**: Python, C/C++, Matlab, Java, R, Javascript, HTML
 * **Software Libraries**: Numpy, Pandas, Spark, TensorFlow, CUDA
 
 ---
