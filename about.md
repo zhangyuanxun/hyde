@@ -14,7 +14,7 @@ I'm PhD candidate in Computer Science at University of Missouri - Columbia, advi
 ---
 
 ## Research Interests
-I'm interested in the theory and practice of understanding and modeling complex big data for making better decisions, for solving these problems involving information retrieval, statistical learning, machine learning, or deep learning. Currently, I'm particularly interested in topic modeling, deep generative models. And, I also have some experiences in recommendation system and time series anomaly detection.
+I'm interested in the theory and practice of understanding and modeling complex big data the theory and practice of understanding and modeling complex data for making better decisions or quantifying uncertainty, for solving these problems involving deep learning, machine learning, statistical learning, probabilistic graphical model, inference algorithm, information retrieval, recommendation system, NLP. Currently, I'm particularly interested in topic modeling, deep generative models. And, I also have some experiences in recommendation system and time series anomaly detection.
 
 ---
 
